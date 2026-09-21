@@ -204,4 +204,4 @@ VNC Personal is available as a full free version, including all features and upd
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-21 05:49:57 UTC
+**Last updated:** 2026-09-21 11:51:04 UTC
